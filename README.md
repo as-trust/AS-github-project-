@@ -1,2 +1,2 @@
-# AS-github-project-
+# AS-github-project
 Trust github project 
